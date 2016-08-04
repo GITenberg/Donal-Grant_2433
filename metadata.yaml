@@ -1,0 +1,31 @@
+_repo: Donal-Grant_2433
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: Donal Grant, a young tutor, leaves home after finishing college and sets
+  out to make his way in the world. In a nearby coastal town he meets a shoemaker
+  who becomes his spiritual mentor, and finds employment and lodging in the nearby
+  castle.
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castles -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Ghosts -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Donal Grant
+url: http://www.gutenberg.org/ebooks/2433
