@@ -1,5 +1,8 @@
 _repo: Donal-Grant_2433
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -12,6 +15,8 @@ description: Donal Grant, a young tutor, leaves home after finishing college and
   out to make his way in the world. In a nearby coastal town he meets a shoemaker
   who becomes his spiritual mentor, and finds employment and lodging in the nearby
   castle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2433#Donal-Grant
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
 identifiers:
